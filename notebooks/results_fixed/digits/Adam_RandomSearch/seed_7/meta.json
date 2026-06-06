@@ -1,0 +1,19 @@
+{
+  "method_config": {
+    "h": 466,
+    "lr": 0.00042445446575574105,
+    "dropout": 0.0018671210260379767
+  },
+  "test_metrics": {
+    "loss": 0.24071390275601987,
+    "accuracy": 0.9703703703703703
+  },
+  "trajectory_summary": {
+    "total_time": 9.26469898223877,
+    "n_evals_full": 0,
+    "n_evals_partial": 35,
+    "n_epochs_eq": 170.0,
+    "best_val": 0.0902316325240665
+  },
+  "date": "2026-05-03T13:07:49.534048"
+}
