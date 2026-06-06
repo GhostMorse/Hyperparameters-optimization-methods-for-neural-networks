@@ -12,8 +12,6 @@ pip install -r requirements.txt
 jupyter lab notebooks/VKR_main.ipynb
 ```
 
-Все запуски в ноутбуке закомментированы — раскомментируйте нужные.
-
 ## Структура
 
 ```
